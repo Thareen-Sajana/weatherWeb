@@ -1,0 +1,182 @@
+.no-row-margin {
+    margin: 0 -15px;  /* Adjust -15px based on your needs */
+}
+
+.pd-remove{
+    padding: 0;
+}
+
+.body{
+    font-family: "Poppins";
+    color: white;
+}
+
+.topic{
+    font-family: "Poppins";
+    color: white;
+   padding-top: 10px;
+}
+
+.title-sty{
+    color: #dcdce0;
+    font-family: "Poppins";
+    opacity: 0.7;
+}
+
+.temp-value{
+    font-size: 60px;
+    font-family: "Poppins";
+    color: white;
+}
+
+
+.line{
+    color: white;
+    border-bottom: 1px solid #ddd;
+    width: 85%;
+    margin: 0 auto;
+   
+}
+
+.precipitation{
+    background-color: #74acf8;
+    width: 85%;
+    margin: 0 auto;
+    color: white;
+    font-family: "Poppins";
+
+    
+}
+
+.precipitation1{
+    background-color: #74acf8;
+    width: 85%;
+    margin: 0 auto;
+    color: white;
+    font-family: "Poppins";
+
+}
+
+.precipitation2{
+    background-color: #74acf8;
+    width: 85%;
+    margin: 0 auto;
+    color: white;
+    font-family: "Poppins";
+
+}
+
+.top-date{
+    font-family: "Poppins";
+}
+
+.bottom-date{
+    font-family: "Poppins";
+    color: #a0a0aa;
+    font-weight: 300;
+}
+
+.search-btn{
+    border: solid 2px #e9e9e9;
+    background-color: #f0f4f9;
+}
+
+.search-bar{
+    border-radius: 20px;
+    width: 65%;
+    font-family: "Poppins";
+    padding-left: 15px;
+    background-color: #f0f4f9;
+    border: none;
+}
+
+.search-bar:focus{
+    border: 1px solid transparent;
+}
+
+.line2{
+    color: white;
+    border-bottom: 2px solid #989a9d;
+    width: 100%;
+    margin: 0 auto;
+   
+}
+
+.btn-set{
+    background-color:  #f0f4f9;
+}
+
+.btn-container{
+    border-radius: 10px;
+}
+
+.day-4-btn{
+    width: 100%;
+    background-color: #f0f4f9;
+    border: solid 1px #f0f4f9;
+    font-family: "Poppins";
+}
+
+
+.day-7-btn{
+    width: 100%;
+    background-color: #f0f4f9;
+    border: solid 1px #f0f4f9;
+    font-family: "Poppins";
+}
+
+.today-btn{
+    width: 100%;
+    background-color: #f0f4f9;
+    border: solid 1px #f0f4f9;
+    font-family: "Poppins";
+}
+
+.day-4-btn:hover{
+    color: white;
+    background-color: #152e4c;
+}
+
+.day-7-btn:hover{
+    color: white;
+    background-color: #152e4c;
+}
+
+.btn-active{
+    color: white;
+    background-color: #152e4c;
+}
+
+
+.today-btn:hover{
+    color: white;
+    background-color: #152e4c;
+}
+
+.day-7-con{
+    background-color: #f0f4f9;
+    border-radius: 80px;
+    margin-left: 10px;
+    margin-right: 100px;
+}
+
+.day-7-display{
+    display: none !important;
+}
+
+.day-display-none{
+    display: none !important;
+}
+
+.day-4-display{
+    display: none !important;
+}
+
+.today-details{
+    background-color: #f0f4f9;
+    border-radius: 20px;
+    width: 100%;
+    font-size: 25px;
+    font-family: "Poppins";
+    font-weight: 400;
+}
